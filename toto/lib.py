@@ -4,4 +4,4 @@ def who_am_i():
 	print(colored("Hello my name is António", "red"))
 
 def sum(a, b):
-    return a+b + 1
+    return a+b
